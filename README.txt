@@ -1,8 +1,19 @@
 CRIE is a contrast-residual-based image enhancement method for non-uniformly illuminated images.
 
-This implementation is based on Tian Pu and Qingsong Zhu,
-"Non-uniform illumination image enhancement via a retinal mechanism inspired decomposition",
-in IEEE Transactions on Consumer Electronics.
+This is an implementation for the following paper
+
+@ARTICLE{CRIE-TCE-2024,
+  author={Pu, Tian and Zhu, Qingsong},
+  journal={IEEE Transactions on Consumer Electronics}, 
+  title={Non-Uniform Illumination Image Enhancement via a Retinal Mechanism Inspired Decomposition}, 
+  year={2024},
+  volume={70},
+  number={1},
+  pages={747-756},
+  keywords={Lighting;Mathematical models;Image enhancement;Retina;Histograms;Visualization;Consumer electronics;Image enhancement;vision-based exploratory data model;contrast;residual image},
+  doi={10.1109/TCE.2024.3377110}}
+
+We also provide some unevenly-lit images for testing. The images are collected from a variety of sources and are used for academic purposes only. 
 
 Usage
 Please see the Demo_crie.m.
