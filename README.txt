@@ -18,4 +18,4 @@ We also provide some unevenly-lit images for testing. The images are collected f
 Usage
 Please see the Demo_crie.m.
 
-
+In addition, an alternative contrast is Weber contrast, namely Cweber = (I-Is)/Is, where I is the input image and Is is the local smoothed image. The Weber contrast can achieve similar results:). 
