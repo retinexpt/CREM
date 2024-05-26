@@ -20,5 +20,5 @@ Please see the Demo_crie.m.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 1. An alternative contrast is Weber contrast, namely Cweber = (I-Is)/Is, where I is the input image and Is is the local smoothed image. The Weber contrast can achieve similar results:). 
-2. The logarithmic transform and its inverse transform (the exponential computation) are not required. 
+2. The logarithmic transform and its inverse transform (the exponential computation) are not required. In this case, subtraction in the logarithmic domain is division.
 3. CRIE can be performed in RGB color space. Treating in R, G, and B channels separately usually yields a color correction effect.
