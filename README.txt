@@ -13,7 +13,9 @@ This is an implementation for the following paper
   keywords={Lighting;Mathematical models;Image enhancement;Retina;Histograms;Visualization;Consumer electronics;Image enhancement;vision-based exploratory data model;contrast;residual image},
   doi={10.1109/TCE.2024.3377110}}
 
-We also provide some unevenly-lit images for testing. The images are collected from a variety of sources and are used for academic purposes only. If you find it helpful, please cite the paper.
+We also provide some unevenly-lit images for testing. The images are collected from various sources and used for academic purposes only. If you find it helpful, please cite the paper.
+
+Please also see: https://github.com/retinexpt/SIPP
 
 Usage
 Please see the Demo_crie.m.
